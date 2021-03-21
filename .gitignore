@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 .DS_Store
+Data/train_set.csv
+Data/train_set.csv.zip
+Data/test_a.csv
+Data/test_a.csv.zip
